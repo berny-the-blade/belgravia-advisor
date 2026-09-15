@@ -1,0 +1,57 @@
+BELGRAVIA ADVISOR — copy-paste content for Google Sites
+(paste each block into a matching section/text box in the Sites editor)
+
+=== HERO / TOP OF PAGE ===
+Headline:
+Considered advice. Clear direction.
+
+Subtext:
+Belgravia Advisor provides independent investor relations, M&A and capital markets advisory to companies navigating growth, transactions and investor engagement.
+
+Button:
+Get in touch  (link to the email section, or mailto: link)
+
+=== SERVICES ===
+Section intro:
+Advisory built on close to two decades inside listed companies' finance and capital markets functions — not generic consulting.
+
+01. Investor Relations Advisory
+Equity story development, capital markets communications and shareholder engagement for public and pre-IPO companies.
+
+02. M&A & Transaction Advisory
+Deal origination, valuation and negotiation support across acquisitions, divestitures and market-entry transactions.
+
+03. Treasury & Capital Structuring
+Debt and equity capital raising, project finance and hedging strategy for capital-intensive businesses.
+
+04. Corporate Governance & Board Advisory
+Strategic counsel to boards and executive teams on governance, financial planning and long-term value creation.
+
+=== ABOUT ===
+Heading:
+A boutique advisory practice
+
+Paragraph 1:
+Belgravia Advisor was founded by Leonardo Shinohara, who brings close to two decades of experience in investor relations, treasury, M&A and equity research across major listed companies including Embraer, CSN, AES Tietê and HSBC.
+
+Paragraph 2:
+His track record spans IPO preparation, multi-billion-dollar capital raises, project finance structuring and post-listing investor relations turnarounds — giving clients direct access to capital markets and transaction expertise usually reserved for large institutions.
+
+At a glance:
+- Based in — São Paulo, Brazil
+- Focus — Capital markets, M&A & corporate advisory
+
+=== CONTACT ===
+Heading:
+Start a conversation
+
+Subtext:
+For enquiries, please reach out directly.
+
+Email: [CONFIRM — real address, e.g. leo@belgraviaadvisor.com]
+
+=== NOTES ===
+- Phone and physical address intentionally omitted, per Leo's request.
+- Site content is English only, no other language toggle.
+- "Based in São Paulo, Brazil" is inferred from his LinkedIn work history, not stated as his personal base — confirm before publishing.
+- Email address is still a placeholder — swap in the real one before publishing.
