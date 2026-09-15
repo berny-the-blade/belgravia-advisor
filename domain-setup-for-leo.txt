@@ -1,0 +1,68 @@
+CONNECT belgraviaadvisor.com TO YOUR WEBSITE
+=============================================
+
+Your website is already built and live at a temporary Google address.
+These steps point your real domain (belgraviaadvisor.com) at it, so
+visitors can just type belgraviaadvisor.com and reach the site.
+
+Takes about 10-15 minutes to do. Can take up to 48 hours to fully work
+everywhere after you finish (usually much faster).
+
+
+PART 1 — Add two records at Squarespace (where your domain lives)
+-------------------------------------------------------------------
+Note: Google Domains sold its domain business to Squarespace in 2023,
+so any domain you bought "through Google" now lives at Squarespace
+Domains. You sign in with the same Google account you used to buy it.
+
+1. Go to: domains.squarespace.com
+2. Sign in with the Google account you used to buy belgraviaadvisor.com
+3. Click on "belgraviaadvisor.com" in your domain list
+4. Find "DNS Settings" (sometimes under an "Advanced" or "DNS" tab)
+
+5. Add this record:
+   Type:  CNAME
+   Host:  www
+   Value: ghs.googlehosted.com
+   Save it.
+
+6. Also set up domain forwarding (may be a separate "Domain Forwarding"
+   section on the same page):
+   Forward from:  belgraviaadvisor.com  (no "www")
+   Forward to:    https://www.belgraviaadvisor.com
+   Type:          Permanent (301)
+   Save it.
+
+That's Part 1 done.
+
+
+PART 2 — Connect it in the Google Admin console
+-------------------------------------------------------------------
+1. Go to: admin.google.com
+2. Sign in with your Workspace admin account (same login as your Gmail)
+3. In the left-hand menu: click "Domains" then "Manage domains"
+4. Click on "belgraviaadvisor.com" in the list
+5. Look for an option to connect a custom URL / website to this domain
+   (wording can vary slightly) — select it, then choose the
+   "Belgravia Advisor" site you already published in Google Sites
+6. Confirm. Google will check for the CNAME record from Part 1.
+   - If it says it can't find the record yet, wait 15-30 minutes
+     (DNS takes a little time to update) and try the confirm step again.
+7. It will show as "Pending" — that's normal, just leave it.
+
+If any menu name doesn't match exactly what you see (Google updates
+its layout sometimes), use the search bar at the top of admin.google.com
+and type "domains" — it'll take you to the right place. Google's own
+help page for this exact task is here if needed:
+https://knowledge.workspace.google.com/admin/domains/connect-your-website-to-a-domain-registered-through-google
+
+
+WHAT TO EXPECT AFTER
+-------------------------------------------------------------------
+- 30-60 minutes: Google starts recognizing the domain
+- Up to 48 hours: fully working everywhere in the world (usually faster)
+- Once live: belgraviaadvisor.com will show the site automatically with
+  a secure padlock (https) — nothing extra to set up for that part.
+
+No further action needed after these two parts — it connects itself
+once the DNS record is found.
