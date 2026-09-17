@@ -52,6 +52,6 @@ Email: [CONFIRM — real address, e.g. leo@belgraviaadvisor.com]
 
 === NOTES ===
 - Phone and physical address intentionally omitted, per Leo's request.
-- Site content is English only, no other language toggle.
+- Site is now EN/ES/PT with a language toggle (see index.html, es.html; pt.html pending).
 - "Based in São Paulo, Brazil" is inferred from his LinkedIn work history, not stated as his personal base — confirm before publishing.
 - Email address is still a placeholder — swap in the real one before publishing.
